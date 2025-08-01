@@ -1,6 +1,8 @@
-package com.xworkz.products.runner;
+package com.xworkz.identity.runner;
 
-import com.xworkz.products.entity.VoterIDEntity;
+
+import com.xworkz.dmart.entity.VoterIDEntity;
+
 import javax.persistence.*;
 
 public class VoterIDUpdate {
