@@ -20,4 +20,6 @@ public class ProductDTO {
     @Size(max = 200)
     private String description;
 
+    @NotNull
+    private MultipartFile productImage;
 }
